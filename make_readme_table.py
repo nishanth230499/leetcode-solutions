@@ -38,5 +38,5 @@ if rows:
         '| :------- | :-------- |',
     ] + rows
 
-    with open(readme_path, 'a', encoding='utf-8') as f:
+    with open(readme_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(table) + '\n')
