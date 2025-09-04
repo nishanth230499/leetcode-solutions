@@ -158,6 +158,7 @@
 | [213. House Robber Ii](https://leetcode.com/problems/house-robber-ii) | [python3](python3/213-house-robber-ii.py) |
 | [215. Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [python3](python3/215-kth-largest-element-in-an-array.py) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator) | [python3](python3/224-basic-calculator.py) |
+| [225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [python3](python3/225-implement-stack-using-queues.py) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [python3](python3/226-invert-binary-tree.py) |
 | [227. Basic Calculator Ii](https://leetcode.com/problems/basic-calculator-ii) | [python3](python3/227-basic-calculator-ii.py) |
 | [230. Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [python3](python3/230-kth-smallest-element-in-a-bst.py) |
