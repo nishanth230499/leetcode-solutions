@@ -181,6 +181,7 @@
 | [297. Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [python3](python3/297-serialize-and-deserialize-binary-tree.py) |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [python3](python3/300-longest-increasing-subsequence.py) |
 | [303. Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [python3](python3/303-range-sum-query-immutable.py) |
+| [304. Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [python3](python3/304-range-sum-query-2d-immutable.py) |
 | [309. Best Time To Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [python3](python3/309-best-time-to-buy-and-sell-stock-with-cooldown.py) |
 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons) | [python3](python3/312-burst-balloons.py) |
 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | [python3](python3/316-remove-duplicate-letters.py) |
