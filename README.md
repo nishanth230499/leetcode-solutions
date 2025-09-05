@@ -154,10 +154,12 @@
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [python3](python3/206-reverse-linked-list.py) |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule) | [python3](python3/207-course-schedule.py) |
 | [208. Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree) | [python3](python3/208-implement-trie-prefix-tree.py) |
+| [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [python3](python3/209-minimum-size-subarray-sum.py) |
 | [210. Course Schedule Ii](https://leetcode.com/problems/course-schedule-ii) | [python3](python3/210-course-schedule-ii.py) |
 | [211. Design Add And Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [python3](python3/211-design-add-and-search-words-data-structure.py) |
 | [213. House Robber Ii](https://leetcode.com/problems/house-robber-ii) | [python3](python3/213-house-robber-ii.py) |
 | [215. Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [python3](python3/215-kth-largest-element-in-an-array.py) |
+| [216. Combination Sum Iii](https://leetcode.com/problems/combination-sum-iii) | [python3](python3/216-combination-sum-iii.py) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator) | [python3](python3/224-basic-calculator.py) |
 | [225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [python3](python3/225-implement-stack-using-queues.py) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [python3](python3/226-invert-binary-tree.py) |
