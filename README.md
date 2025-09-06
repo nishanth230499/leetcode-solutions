@@ -145,6 +145,7 @@
 | [169. Majority Element](https://leetcode.com/problems/majority-element) | [python3](python3/169-majority-element.py) |
 | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [python3](python3/173-binary-search-tree-iterator.py) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number) | [python3](python3/179-largest-number.py) |
+| [187. Repeated Dna Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [python3](python3/187-repeated-dna-sequences.py) |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) | [python3](python3/190-reverse-bits.py) |
 | [191. Number Of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [python3](python3/191-number-of-1-bits.py) |
 | [198. House Robber](https://leetcode.com/problems/house-robber) | [python3](python3/198-house-robber.py) |
