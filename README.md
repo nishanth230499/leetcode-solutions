@@ -162,6 +162,7 @@
 | [215. Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [python3](python3/215-kth-largest-element-in-an-array.py) |
 | [216. Combination Sum Iii](https://leetcode.com/problems/combination-sum-iii) | [python3](python3/216-combination-sum-iii.py) |
 | [219. Contains Duplicate Ii](https://leetcode.com/problems/contains-duplicate-ii) | [python3](python3/219-contains-duplicate-ii.py) |
+| [220. Contains Duplicate Iii](https://leetcode.com/problems/contains-duplicate-iii) | [python3](python3/220-contains-duplicate-iii.py) |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator) | [python3](python3/224-basic-calculator.py) |
 | [225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [python3](python3/225-implement-stack-using-queues.py) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [python3](python3/226-invert-binary-tree.py) |
