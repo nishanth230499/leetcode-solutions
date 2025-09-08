@@ -203,6 +203,7 @@
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter) | [python3](python3/355-design-twitter.py) |
 | [371. Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [python3](python3/371-sum-of-two-integers.py) |
 | [380. Insert Delete Getrandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1) | [python3](python3/380-insert-delete-getrandom-o1.py) |
+| [395. Longest Substring With At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) | [python3](python3/395-longest-substring-with-at-least-k-repeating-characters.py) |
 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division) | [python3](python3/399-evaluate-division.py) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [python3](python3/416-partition-equal-subset-sum.py) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [python3](python3/417-pacific-atlantic-water-flow.py) |
