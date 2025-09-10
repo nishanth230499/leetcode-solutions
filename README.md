@@ -221,6 +221,7 @@
 | [543. Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [python3](python3/543-diameter-of-binary-tree.py) |
 | [567. Permutation In String](https://leetcode.com/problems/permutation-in-string) | [python3](python3/567-permutation-in-string.py) |
 | [572. Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [python3](python3/572-subtree-of-another-tree.py) |
+| [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [python3](python3/594-longest-harmonious-subsequence.py) |
 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler) | [python3](python3/621-task-scheduler.py) |
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [python3](python3/647-palindromic-substrings.py) |
 | [675. Cut Off Trees For Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) | [python3](python3/675-cut-off-trees-for-golf-event.py) |
