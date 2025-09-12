@@ -261,6 +261,7 @@
 | [1335. Maximum Candies Allocated To K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | [python3](python3/1335-maximum-candies-allocated-to-k-children.py) |
 | [1397. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [python3](python3/1397-search-suggestions-system.py) |
 | [1445. Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [python3](python3/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py) |
+| [1514. Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | [python3](python3/1514-path-with-maximum-probability.py) |
 | [1544. Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [python3](python3/1544-count-good-nodes-in-binary-tree.py) |
 | [1585. The Kth Factor Of N](https://leetcode.com/problems/the-kth-factor-of-n) | [python3](python3/1585-the-kth-factor-of-n.py) |
 | [1706. Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) | [python3](python3/1706-min-cost-to-connect-all-points.py) |
