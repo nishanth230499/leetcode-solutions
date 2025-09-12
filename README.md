@@ -268,6 +268,7 @@
 | [1818. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | [python3](python3/1818-maximum-score-from-removing-substrings.py) |
 | [1886. Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [python3](python3/1886-minimum-limit-of-balls-in-a-bag.py) |
 | [1894. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [python3](python3/1894-merge-strings-alternately.py) |
+| [1976. Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [python3](python3/1976-number-of-ways-to-arrive-at-destination.py) |
 | [1977. Minimum Interval To Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query) | [python3](python3/1977-minimum-interval-to-include-each-query.py) |
 | [2000. Minimum Speed To Arrive On Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time) | [python3](python3/2000-minimum-speed-to-arrive-on-time.py) |
 | [2026. Merge Triplets To Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet) | [python3](python3/2026-merge-triplets-to-form-target-triplet.py) |
