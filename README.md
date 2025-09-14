@@ -279,3 +279,4 @@
 | [2662. Minimum Cost Of A Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads) | [python3](python3/2662-minimum-cost-of-a-path-with-special-roads.py) |
 | [2690. House Robber Iv](https://leetcode.com/problems/house-robber-iv) | [python3](python3/2690-house-robber-iv.py) |
 | [2699. Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [python3](python3/2699-count-the-number-of-fair-pairs.py) |
+| [2976. Minimum Cost To Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | [python3](python3/2976-minimum-cost-to-convert-string-i.py) |
