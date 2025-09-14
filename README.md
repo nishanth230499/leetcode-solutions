@@ -280,4 +280,6 @@
 | [2690. House Robber Iv](https://leetcode.com/problems/house-robber-iv) | [python3](python3/2690-house-robber-iv.py) |
 | [2699. Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [python3](python3/2699-count-the-number-of-fair-pairs.py) |
 | [2976. Minimum Cost To Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | [python3](python3/2976-minimum-cost-to-convert-string-i.py) |
+| [3341. Find Minimum Time To Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | [python3](python3/3341-find-minimum-time-to-reach-last-room-i.py) |
+| [3419. Minimize The Maximum Edge Weight Of Graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph) | [python3](python3/3419-minimize-the-maximum-edge-weight-of-graph.py) |
 | [3604. Minimum Time To Reach Destination In Directed Graph](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph) | [python3](python3/3604-minimum-time-to-reach-destination-in-directed-graph.py) |
