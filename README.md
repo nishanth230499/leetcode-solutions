@@ -280,6 +280,7 @@
 | [2690. House Robber Iv](https://leetcode.com/problems/house-robber-iv) | [python3](python3/2690-house-robber-iv.py) |
 | [2699. Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [python3](python3/2699-count-the-number-of-fair-pairs.py) |
 | [2976. Minimum Cost To Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | [python3](python3/2976-minimum-cost-to-convert-string-i.py) |
+| [3286. Find A Safe Walk Through A Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | [python3](python3/3286-find-a-safe-walk-through-a-grid.py) |
 | [3341. Find Minimum Time To Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | [python3](python3/3341-find-minimum-time-to-reach-last-room-i.py) |
 | [3342. Find Minimum Time To Reach Last Room Ii](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | [python3](python3/3342-find-minimum-time-to-reach-last-room-ii.py) |
 | [3419. Minimize The Maximum Edge Weight Of Graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph) | [python3](python3/3419-minimize-the-maximum-edge-weight-of-graph.py) |
