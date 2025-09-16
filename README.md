@@ -215,6 +215,7 @@
 | [460. Lfu Cache](https://leetcode.com/problems/lfu-cache) | [python3](python3/460-lfu-cache.py) |
 | [472. Concatenated Words](https://leetcode.com/problems/concatenated-words) | [python3](python3/472-concatenated-words.py) |
 | [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median) | [python3](python3/480-sliding-window-median.py) |
+| [491. Non Decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences) | [python3](python3/491-non-decreasing-subsequences.py) |
 | [494. Target Sum](https://leetcode.com/problems/target-sum) | [python3](python3/494-target-sum.py) |
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [python3](python3/516-longest-palindromic-subsequence.py) |
 | [518. Coin Change Ii](https://leetcode.com/problems/coin-change-ii) | [python3](python3/518-coin-change-ii.py) |
