@@ -259,6 +259,7 @@
 | [1056. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [python3](python3/1056-capacity-to-ship-packages-within-d-days.py) |
 | [1124. Longest Well Performing Interval](https://leetcode.com/problems/longest-well-performing-interval) | [python3](python3/1124-longest-well-performing-interval.py) |
 | [1127. Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [python3](python3/1127-last-stone-weight.py) |
+| [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path) | [python3](python3/1138-alphabet-board-path.py) |
 | [1146. Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [python3](python3/1146-greatest-common-divisor-of-strings.py) |
 | [1250. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [python3](python3/1250-longest-common-subsequence.py) |
 | [1300. Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network) | [python3](python3/1300-critical-connections-in-a-network.py) |
