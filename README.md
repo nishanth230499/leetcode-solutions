@@ -257,6 +257,7 @@
 | [1023. Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store) | [python3](python3/1023-time-based-key-value-store.py) |
 | [1036. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [python3](python3/1036-rotting-oranges.py) |
 | [1056. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [python3](python3/1056-capacity-to-ship-packages-within-d-days.py) |
+| [1124. Longest Well Performing Interval](https://leetcode.com/problems/longest-well-performing-interval) | [python3](python3/1124-longest-well-performing-interval.py) |
 | [1127. Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [python3](python3/1127-last-stone-weight.py) |
 | [1146. Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [python3](python3/1146-greatest-common-divisor-of-strings.py) |
 | [1250. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [python3](python3/1250-longest-common-subsequence.py) |
