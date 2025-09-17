@@ -262,6 +262,7 @@
 | [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path) | [python3](python3/1138-alphabet-board-path.py) |
 | [1146. Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [python3](python3/1146-greatest-common-divisor-of-strings.py) |
 | [1250. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [python3](python3/1250-longest-common-subsequence.py) |
+| [1282. Group The People Given The Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [python3](python3/1282-group-the-people-given-the-group-size-they-belong-to.py) |
 | [1300. Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network) | [python3](python3/1300-critical-connections-in-a-network.py) |
 | [1334. Find The City With The Smallest Number Of Neighbors At A Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | [python3](python3/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | [1335. Maximum Candies Allocated To K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | [python3](python3/1335-maximum-candies-allocated-to-k-children.py) |
