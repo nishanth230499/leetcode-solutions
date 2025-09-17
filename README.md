@@ -280,6 +280,7 @@
 | [2116. Count Number Of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [python3](python3/2116-count-number-of-pairs-with-absolute-difference-k.py) |
 | [2139. Detect Squares](https://leetcode.com/problems/detect-squares) | [python3](python3/2139-detect-squares.py) |
 | [2188. Minimized Maximum Of Products Distributed To Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [python3](python3/2188-minimized-maximum-of-products-distributed-to-any-store.py) |
+| [2461. Maximum Sum Of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [python3](python3/2461-maximum-sum-of-distinct-subarrays-with-length-k.py) |
 | [2577. Minimum Time To Visit A Cell In A Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid) | [python3](python3/2577-minimum-time-to-visit-a-cell-in-a-grid.py) |
 | [2662. Minimum Cost Of A Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads) | [python3](python3/2662-minimum-cost-of-a-path-with-special-roads.py) |
 | [2690. House Robber Iv](https://leetcode.com/problems/house-robber-iv) | [python3](python3/2690-house-robber-iv.py) |
