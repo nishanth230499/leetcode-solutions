@@ -275,6 +275,7 @@
 | [1519. Number Of Nodes In The Sub Tree With The Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [python3](python3/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
 | [1544. Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [python3](python3/1544-count-good-nodes-in-binary-tree.py) |
 | [1585. The Kth Factor Of N](https://leetcode.com/problems/the-kth-factor-of-n) | [python3](python3/1585-the-kth-factor-of-n.py) |
+| [1600. Throne Inheritance](https://leetcode.com/problems/throne-inheritance) | [python3](python3/1600-throne-inheritance.py) |
 | [1706. Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) | [python3](python3/1706-min-cost-to-connect-all-points.py) |
 | [1762. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [python3](python3/1762-furthest-building-you-can-reach.py) |
 | [1818. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | [python3](python3/1818-maximum-score-from-removing-substrings.py) |
