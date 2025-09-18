@@ -232,6 +232,7 @@
 | [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs) | [python3](python3/677-map-sum-pairs.py) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | [python3](python3/678-valid-parenthesis-string.py) |
 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection) | [python3](python3/684-redundant-connection.py) |
+| [690. Employee Importance](https://leetcode.com/problems/employee-importance) | [python3](python3/690-employee-importance.py) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | [python3](python3/692-top-k-frequent-words.py) |
 | [695. Max Area Of Island](https://leetcode.com/problems/max-area-of-island) | [python3](python3/695-max-area-of-island.py) |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill) | [python3](python3/733-flood-fill.py) |
