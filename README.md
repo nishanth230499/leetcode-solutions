@@ -269,6 +269,7 @@
 | [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [python3](python3/1386-cinema-seat-allocation.py) |
 | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system) | [python3](python3/1396-design-underground-system.py) |
 | [1397. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [python3](python3/1397-search-suggestions-system.py) |
+| [1443. Minimum Time To Collect All Apples In A Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [python3](python3/1443-minimum-time-to-collect-all-apples-in-a-tree.py) |
 | [1445. Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [python3](python3/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py) |
 | [1514. Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | [python3](python3/1514-path-with-maximum-probability.py) |
 | [1544. Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [python3](python3/1544-count-good-nodes-in-binary-tree.py) |
