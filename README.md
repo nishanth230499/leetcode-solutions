@@ -272,6 +272,7 @@
 | [1443. Minimum Time To Collect All Apples In A Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [python3](python3/1443-minimum-time-to-collect-all-apples-in-a-tree.py) |
 | [1445. Number Of Sub Arrays Of Size K And Average Greater Than Or Equal To Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [python3](python3/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py) |
 | [1514. Path With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | [python3](python3/1514-path-with-maximum-probability.py) |
+| [1519. Number Of Nodes In The Sub Tree With The Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [python3](python3/1519-number-of-nodes-in-the-sub-tree-with-the-same-label.py) |
 | [1544. Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [python3](python3/1544-count-good-nodes-in-binary-tree.py) |
 | [1585. The Kth Factor Of N](https://leetcode.com/problems/the-kth-factor-of-n) | [python3](python3/1585-the-kth-factor-of-n.py) |
 | [1706. Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) | [python3](python3/1706-min-cost-to-connect-all-points.py) |
