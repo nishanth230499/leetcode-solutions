@@ -176,6 +176,7 @@
 | [240. Search A 2D Matrix Ii](https://leetcode.com/problems/search-a-2d-matrix-ii) | [python3](python3/240-search-a-2d-matrix-ii.py) |
 | [253. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [python3](python3/253-binary-tree-paths.py) |
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [python3](python3/257-binary-tree-paths.py) |
+| [258. Add Digits](https://leetcode.com/problems/add-digits) | [python3](python3/258-add-digits.py) |
 | [263. Ugly Number](https://leetcode.com/problems/ugly-number) | [python3](python3/263-ugly-number.py) |
 | [264. Ugly Number Ii](https://leetcode.com/problems/ugly-number-ii) | [python3](python3/264-ugly-number-ii.py) |
 | [268. Missing Number](https://leetcode.com/problems/missing-number) | [python3](python3/268-missing-number.py) |
