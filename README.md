@@ -277,6 +277,7 @@
 | [1300. Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network) | [python3](python3/1300-critical-connections-in-a-network.py) |
 | [1334. Find The City With The Smallest Number Of Neighbors At A Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | [python3](python3/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.py) |
 | [1335. Maximum Candies Allocated To K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | [python3](python3/1335-maximum-candies-allocated-to-k-children.py) |
+| [1338. Reduce Array Size To The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [python3](python3/1338-reduce-array-size-to-the-half.py) |
 | [1386. Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | [python3](python3/1386-cinema-seat-allocation.py) |
 | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system) | [python3](python3/1396-design-underground-system.py) |
 | [1397. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [python3](python3/1397-search-suggestions-system.py) |
