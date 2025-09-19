@@ -254,6 +254,7 @@
 | [794. Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water) | [python3](python3/794-swim-in-rising-water.py) |
 | [803. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | [python3](python3/803-cheapest-flights-within-k-stops.py) |
 | [837. Most Common Word](https://leetcode.com/problems/most-common-word) | [python3](python3/837-most-common-word.py) |
+| [857. Minimum Cost To Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) | [python3](python3/857-minimum-cost-to-hire-k-workers.py) |
 | [876. Hand Of Straights](https://leetcode.com/problems/hand-of-straights) | [python3](python3/876-hand-of-straights.py) |
 | [882. Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph) | [python3](python3/882-reachable-nodes-in-subdivided-graph.py) |
 | [883. Car Fleet](https://leetcode.com/problems/car-fleet) | [python3](python3/883-car-fleet.py) |
