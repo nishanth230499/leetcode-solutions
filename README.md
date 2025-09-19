@@ -306,6 +306,7 @@
 | [2662. Minimum Cost Of A Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads) | [python3](python3/2662-minimum-cost-of-a-path-with-special-roads.py) |
 | [2690. House Robber Iv](https://leetcode.com/problems/house-robber-iv) | [python3](python3/2690-house-robber-iv.py) |
 | [2699. Count The Number Of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | [python3](python3/2699-count-the-number-of-fair-pairs.py) |
+| [2813. Maximum Elegance Of A K Length Subsequence](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence) | [python3](python3/2813-maximum-elegance-of-a-k-length-subsequence.py) |
 | [2976. Minimum Cost To Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | [python3](python3/2976-minimum-cost-to-convert-string-i.py) |
 | [3112. Minimum Time To Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes) | [python3](python3/3112-minimum-time-to-visit-disappearing-nodes.py) |
 | [3286. Find A Safe Walk Through A Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | [python3](python3/3286-find-a-safe-walk-through-a-grid.py) |
