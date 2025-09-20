@@ -250,6 +250,7 @@
 | [747. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [python3](python3/747-min-cost-climbing-stairs.py) |
 | [768. Partition Labels](https://leetcode.com/problems/partition-labels) | [python3](python3/768-partition-labels.py) |
 | [778. Reorganize String](https://leetcode.com/problems/reorganize-string) | [python3](python3/778-reorganize-string.py) |
+| [786. K Th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) | [python3](python3/786-k-th-smallest-prime-fraction.py) |
 | [789. Kth Largest Element In A Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [python3](python3/789-kth-largest-element-in-a-stream.py) |
 | [792. Binary Search](https://leetcode.com/problems/binary-search) | [python3](python3/792-binary-search.py) |
 | [794. Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water) | [python3](python3/794-swim-in-rising-water.py) |
