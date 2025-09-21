@@ -227,6 +227,7 @@
 | [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | [python3](python3/508-most-frequent-subtree-sum.py) |
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [python3](python3/516-longest-palindromic-subsequence.py) |
 | [518. Coin Change Ii](https://leetcode.com/problems/coin-change-ii) | [python3](python3/518-coin-change-ii.py) |
+| [532. K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [python3](python3/532-k-diff-pairs-in-an-array.py) |
 | [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | [python3](python3/537-complex-number-multiplication.py) |
 | [543. Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [python3](python3/543-diameter-of-binary-tree.py) |
 | [554. Brick Wall](https://leetcode.com/problems/brick-wall) | [python3](python3/554-brick-wall.py) |
