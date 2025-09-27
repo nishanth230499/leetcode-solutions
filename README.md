@@ -301,6 +301,7 @@
 | [1818. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | [python3](python3/1818-maximum-score-from-removing-substrings.py) |
 | [1886. Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [python3](python3/1886-minimum-limit-of-balls-in-a-bag.py) |
 | [1894. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [python3](python3/1894-merge-strings-alternately.py) |
+| [1947. Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum) | [python3](python3/1947-maximum-compatibility-score-sum.py) |
 | [1976. Number Of Ways To Arrive At Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | [python3](python3/1976-number-of-ways-to-arrive-at-destination.py) |
 | [1977. Minimum Interval To Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query) | [python3](python3/1977-minimum-interval-to-include-each-query.py) |
 | [2000. Minimum Speed To Arrive On Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time) | [python3](python3/2000-minimum-speed-to-arrive-on-time.py) |
@@ -308,6 +309,7 @@
 | [2116. Count Number Of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [python3](python3/2116-count-number-of-pairs-with-absolute-difference-k.py) |
 | [2139. Detect Squares](https://leetcode.com/problems/detect-squares) | [python3](python3/2139-detect-squares.py) |
 | [2188. Minimized Maximum Of Products Distributed To Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [python3](python3/2188-minimized-maximum-of-products-distributed-to-any-store.py) |
+| [2305. Fair Distribution Of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies) | [python3](python3/2305-fair-distribution-of-cookies.py) |
 | [2461. Maximum Sum Of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k) | [python3](python3/2461-maximum-sum-of-distinct-subarrays-with-length-k.py) |
 | [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score) | [python3](python3/2542-maximum-subsequence-score.py) |
 | [2577. Minimum Time To Visit A Cell In A Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid) | [python3](python3/2577-minimum-time-to-visit-a-cell-in-a-grid.py) |
