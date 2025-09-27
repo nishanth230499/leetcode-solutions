@@ -277,6 +277,7 @@
 | [1138. Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path) | [python3](python3/1138-alphabet-board-path.py) |
 | [1146. Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [python3](python3/1146-greatest-common-divisor-of-strings.py) |
 | [1172. Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks) | [python3](python3/1172-dinner-plate-stacks.py) |
+| [1219. Path With Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | [python3](python3/1219-path-with-maximum-gold.py) |
 | [1250. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [python3](python3/1250-longest-common-subsequence.py) |
 | [1282. Group The People Given The Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | [python3](python3/1282-group-the-people-given-the-group-size-they-belong-to.py) |
 | [1300. Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network) | [python3](python3/1300-critical-connections-in-a-network.py) |
