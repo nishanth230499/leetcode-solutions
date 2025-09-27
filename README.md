@@ -297,6 +297,7 @@
 | [1647. Minimum Deletions To Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | [python3](python3/1647-minimum-deletions-to-make-character-frequencies-unique.py) |
 | [1706. Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) | [python3](python3/1706-min-cost-to-connect-all-points.py) |
 | [1762. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [python3](python3/1762-furthest-building-you-can-reach.py) |
+| [1774. Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost) | [python3](python3/1774-closest-dessert-cost.py) |
 | [1818. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | [python3](python3/1818-maximum-score-from-removing-substrings.py) |
 | [1886. Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [python3](python3/1886-minimum-limit-of-balls-in-a-bag.py) |
 | [1894. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [python3](python3/1894-merge-strings-alternately.py) |
