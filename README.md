@@ -306,6 +306,7 @@
 | [1977. Minimum Interval To Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query) | [python3](python3/1977-minimum-interval-to-include-each-query.py) |
 | [2000. Minimum Speed To Arrive On Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time) | [python3](python3/2000-minimum-speed-to-arrive-on-time.py) |
 | [2026. Merge Triplets To Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet) | [python3](python3/2026-merge-triplets-to-form-target-triplet.py) |
+| [2044. Count Number Of Maximum Bitwise Or Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | [python3](python3/2044-count-number-of-maximum-bitwise-or-subsets.py) |
 | [2116. Count Number Of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | [python3](python3/2116-count-number-of-pairs-with-absolute-difference-k.py) |
 | [2139. Detect Squares](https://leetcode.com/problems/detect-squares) | [python3](python3/2139-detect-squares.py) |
 | [2188. Minimized Maximum Of Products Distributed To Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | [python3](python3/2188-minimized-maximum-of-products-distributed-to-any-store.py) |
