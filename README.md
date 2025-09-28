@@ -319,6 +319,7 @@
 | [2813. Maximum Elegance Of A K Length Subsequence](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence) | [python3](python3/2813-maximum-elegance-of-a-k-length-subsequence.py) |
 | [2976. Minimum Cost To Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i) | [python3](python3/2976-minimum-cost-to-convert-string-i.py) |
 | [3112. Minimum Time To Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes) | [python3](python3/3112-minimum-time-to-visit-disappearing-nodes.py) |
+| [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | [python3](python3/3211-generate-binary-strings-without-adjacent-zeros.py) |
 | [3286. Find A Safe Walk Through A Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | [python3](python3/3286-find-a-safe-walk-through-a-grid.py) |
 | [3341. Find Minimum Time To Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | [python3](python3/3341-find-minimum-time-to-reach-last-room-i.py) |
 | [3342. Find Minimum Time To Reach Last Room Ii](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | [python3](python3/3342-find-minimum-time-to-reach-last-room-ii.py) |
