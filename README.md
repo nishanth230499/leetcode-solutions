@@ -181,6 +181,7 @@
 | [264. Ugly Number Ii](https://leetcode.com/problems/ugly-number-ii) | [python3](python3/264-ugly-number-ii.py) |
 | [268. Missing Number](https://leetcode.com/problems/missing-number) | [python3](python3/268-missing-number.py) |
 | [273. Integer To English Words](https://leetcode.com/problems/integer-to-english-words) | [python3](python3/273-integer-to-english-words.py) |
+| [279. Perfect Squares](https://leetcode.com/problems/perfect-squares) | [python3](python3/279-perfect-squares.py) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes) | [python3](python3/283-move-zeroes.py) |
 | [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | [python3](python3/284-peeking-iterator.py) |
 | [287. Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [python3](python3/287-find-the-duplicate-number.py) |
