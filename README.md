@@ -242,6 +242,7 @@
 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler) | [python3](python3/621-task-scheduler.py) |
 | [632. Smallest Range Covering Elements From K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists) | [python3](python3/632-smallest-range-covering-elements-from-k-lists.py) |
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [python3](python3/647-palindromic-substrings.py) |
+| [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [python3](python3/654-maximum-binary-tree.py) |
 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | [python3](python3/658-find-k-closest-elements.py) |
 | [675. Cut Off Trees For Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event) | [python3](python3/675-cut-off-trees-for-golf-event.py) |
 | [677. Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs) | [python3](python3/677-map-sum-pairs.py) |
