@@ -305,6 +305,7 @@
 | [1762. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [python3](python3/1762-furthest-building-you-can-reach.py) |
 | [1774. Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost) | [python3](python3/1774-closest-dessert-cost.py) |
 | [1818. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | [python3](python3/1818-maximum-score-from-removing-substrings.py) |
+| [1856. Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product) | [python3](python3/1856-maximum-subarray-min-product.py) |
 | [1886. Minimum Limit Of Balls In A Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag) | [python3](python3/1886-minimum-limit-of-balls-in-a-bag.py) |
 | [1894. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [python3](python3/1894-merge-strings-alternately.py) |
 | [1947. Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum) | [python3](python3/1947-maximum-compatibility-score-sum.py) |
